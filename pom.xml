@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lucent.learning</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>PPMFullStackProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ppmtool</name>
 	<description>Personal Project Management Tool</description>
